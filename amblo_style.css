@@ -1,0 +1,14 @@
+/*BEGIN PS4 AMBLO Controller Styling*/
+.controller.ds4.white {
+    background-image: url(https://raw.githubusercontent.com/importster/gamepad.svgs/refs/heads/main/base.svgz);
+}
+
+.ds4.white .stick {
+    background-image: url(https://raw.githubusercontent.com/importster/gamepad.svgs/refs/heads/main/sticks.svgz);
+}
+
+.ds4.white .face {
+    background-image: url(https://raw.githubusercontent.com/importster/gamepad.svgs/refs/heads/main/dpad.svgz);
+}
+
+/*END PS4 AMBLO Controller Styling*/
